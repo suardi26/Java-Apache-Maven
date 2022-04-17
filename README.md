@@ -4,11 +4,11 @@
 
 - <samp>Build Automation adalah proses meng-otomatisasi tahapan pembuatan software dan hal-hal yang berhubungan</samp>
   
-  <samp>denganya, seperti : kompilasi source code menjadi binary code, mem-package binary code menjadi distribution</samp>
+  <samp>denganya, seperti : kompilasi source code menjadi binary code, mem-package binary code menjadi </samp>
   
-  <samp>file misalnya dari file '.class' menjadi '.jar' (Java Archive), membuat dokumentasi, menjalankan</samp> 
+  <samp>distribution file misalnya dari file '.class' menjadi '.jar' (Java Archive), membuat dokumentasi,</samp> 
   
-  <samp>automated test hingga manajemen dependency.</samp>
+  <samp> menjalankan automated test hingga manajemen dependency.</samp>
 
 - <samp>Semua proses diatas tidak perlu dibuat manual lagi namun dapat di otomatisasi dengan Bulid Automation.</samp>
   
