@@ -25,3 +25,27 @@
 - <samp>Jadi pada java dapat dilakukan Compile Doc dari Source Code menjadi Documentation dari source code tersebut, namun </samp>
   
   <samp>Compile Doc ini dapat diotomatisasi dengan Build Automation dan tidak perlu manual.</samp>
+  
+- <samp>Buiild AAutomation dapat menjalankan automated Test, karena pada saat membuat aplikasi tidak hanya membuat source code</samp> 
+
+  <samp>aplikasi namun juga membuat source code unit testnya dan untuk proses testing akan dijalankan secara otomatis oleh</samp> 
+  
+  <samp>build automation dan test resultnya dapat dilihat juga.</samp> 
+  
+  ---
+  
+-  <samp>Pada saat kita membuat aplikasi kita biasanya membutuhkan beberapa library/dependecies dan untuk mengaturnya secara </samp>
+
+   <samp>otomatis baik dari download library-nya secara otomatis, dicombine bersama project yang dibuat dan dicompile serta </samp>
+  
+   <samp>di running secara otomatis, hal ini lebih mudah dibandingkan pada saat melakukannya secara manual seperti mendownload </samp>
+  
+   <samp>library berupa file jar secara manual dan di compile bersama project kita secara manual.</samp>
+   
+ - <samp>Ada beberapa Build Automation Tool :</samp>
+ 
+    - <samp>Apache Maven.</samp>
+    
+    - <samp>Apache Ivy.</amp>
+    
+    - <samp>Gradle.</samp>
