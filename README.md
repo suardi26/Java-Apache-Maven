@@ -16,4 +16,8 @@
   
   <samp>tidak perlu secara manual dikarenakan dapat di otomatisasi dengan Build Automation.</samp>
   
-- 
+- <samp>Mempackage (Packaging) Binary File menjadi Distribution File Misalnya pada java ada : '.jar' (Java Archive),</samp>
+
+  <samp>'.ear' (Enterprise Archive), '.war' (Web Archive), dan packging ini dapat di otomatisasi dengan Build Automation</samp>
+  
+  <samp>dan tidak perlu manual.</samp>
