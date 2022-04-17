@@ -10,10 +10,10 @@
 
 - <samp>Semua proses diatas tidak perlu dibuat manual lagi namun dapat di otomatisasi dengan Bulid Automation.</samp>
   
-- <samp>Pada saat menggunakan IDE seperti Intellij IDEA maka dapat dibantu oleh IDE namun pada kenyataannya tidak mungkin membawa IDE</samp>
+- <samp>Pada saat menggunakan IDE seperti Intellij IDEA maka dapat dibantu melakukan kompilasi oleh IDE namun pada kenyataannya </samp>
   
-  <samp>pada server, jadi harus dilakukan compile dari source code menjadi binary file pada server namun tidak perlu secara manual</samp>
+  <samp>tidak mungkin membawa IDE pada server, jadi harus dilakukan compile dari source code menjadi binary file pada server namun </samp>
   
-  <samp>dikarenakan dapat di otomatisasi dengan Build Automation.</samp>
+  <samp>tidak perlu secara manual dikarenakan dapat di otomatisasi dengan Build Automation.</samp>
   
 - 
