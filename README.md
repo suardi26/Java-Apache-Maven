@@ -8,7 +8,7 @@
   
   <samp>menjadi '.jar' (Java Archive), membuat dokumentasi, menjalankan automated test hingga manajemen dependency.</samp>
 
-  - <samp>Semua proses diatas tidak perlu dibuat manual lagi namun dapat di otomatisasi dengan Bulid Automation.</samp>
+- <samp>Semua proses diatas tidak perlu dibuat manual lagi namun dapat di otomatisasi dengan Bulid Automation.</samp>
   
 - <samp>Pada saat menggunakan IDE seperti Intellij IDEA maka dapat dibantu oleh IDE namun pada kenyataannya tidak mungkin membawa IDE</samp>
   
