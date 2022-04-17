@@ -12,37 +12,41 @@
 
 - <samp>Semua proses diatas tidak perlu dibuat manual lagi namun dapat di otomatisasi dengan Bulid Automation.</samp>
   
-- <samp>Pada saat menggunakan IDE seperti Intellij IDEA maka dapat dibantu melakukan kompilasi oleh IDE namun pada kenyataannya </samp>
+- <samp>Pada saat menggunakan IDE seperti Intellij IDEA maka dapat dibantu melakukan kompilasi oleh IDE namun</samp>
   
-  <samp>tidak mungkin membawa IDE pada server, jadi harus dilakukan compile dari source code menjadi binary file pada server namun </samp>
+  <samp>pada kenyataannya tidak mungkin membawa IDE pada server, jadi harus dilakukan compile dari </samp>
   
-  <samp>tidak perlu secara manual dikarenakan dapat di otomatisasi dengan Build Automation.</samp>
+  <samp>source code menjadi binary file pada server namun tidak perlu secara manual dikarenakan dapat </samp>
   
-- <samp>Mempackage (Packaging) Binary File menjadi Distribution File Misalnya pada java ada : '.jar' (Java Archive),</samp>
+  <samp>di otomatisasi dengan Build Automation.</samp>
+  
+- <samp>Mempackage (Packaging) Binary File menjadi Distribution File Misalnya pada java ada : </samp>
 
-  <samp>'.ear' (Enterprise Archive), '.war' (Web Archive), dan packging ini dapat di otomatisasi dengan Build Automation</samp>
+  <samp>'.jar' (Java Archive), '.ear' (Enterprise Archive), '.war' (Web Archive), dan packging ini dapat </samp>
   
-  <samp>dan tidak perlu manual.</samp>
+  <samp>di otomatisasi dengan Build Automation dan tidak perlu manual.</samp>
   
-- <samp>Jadi pada java dapat dilakukan Compile Doc dari Source Code menjadi Documentation dari source code tersebut, namun </samp>
+- <samp>Jadi pada java dapat dilakukan Compile Doc dari Source Code menjadi Documentation dari source code tersebut,</samp>
   
-  <samp>Compile Doc ini dapat diotomatisasi dengan Build Automation dan tidak perlu manual.</samp>
+  <samp>namun Compile Doc ini dapat diotomatisasi dengan Build Automation dan tidak perlu manual.</samp>
   
-- <samp>Buiild AAutomation dapat menjalankan automated Test, karena pada saat membuat aplikasi tidak hanya membuat source code</samp> 
+- <samp>Buiild AAutomation dapat menjalankan automated Test, karena pada saat membuat aplikasi tidak hanya</samp> 
 
-  <samp>aplikasi namun juga membuat source code unit testnya dan untuk proses testing akan dijalankan secara otomatis oleh</samp> 
+  <samp>membuat source code aplikasi namun juga membuat source code unit testnya dan untuk proses testing</samp> 
   
-  <samp>build automation dan test resultnya dapat dilihat juga.</samp> 
+  <samp>akan dijalankan secara otomatis oleh build automation dan test resultnya dapat dilihat juga.</samp> 
   
   <img src="https://github.com/suardi26/Java-Apache-Maven/blob/main/Automated%20Test%20%26%20Management%20Dependency_page-0001.jpg" alt="Automated Test & Management Dependency"/>
   
-- <samp>Pada saat kita membuat aplikasi kita biasanya membutuhkan beberapa library/dependecies dan untuk mengaturnya secara </samp>
+- <samp>Pada saat kita membuat aplikasi kita biasanya membutuhkan beberapa library/dependecies dan untuk </samp>
 
-  <samp>otomatis baik dari download library-nya secara otomatis, dicombine bersama project yang dibuat dan dicompile serta </samp>
+  <samp>mengaturnya secara otomatis baik dari download library-nya secara otomatis, dicombine bersama project</samp>
   
-  <samp>di running secara otomatis, hal ini lebih mudah dibandingkan pada saat melakukannya secara manual seperti mendownload </samp>
+  <samp>yang dibuat dan dicompile serta di running secara otomatis, hal ini lebih mudah dibandingkan pada saat</samp>
   
-  <samp>library berupa file jar secara manual dan di compile bersama project kita secara manual.</samp>
+  <samp>melakukannya secara manual seperti mendownload library berupa file jar secara manual dan di compile </samp>
+  
+  <samp>bersama project kita secara manual.</samp>
    
  - <samp>Ada beberapa Build Automation Tool :</samp>
  
@@ -60,9 +64,11 @@
 
 - <samp>Apache Maven sangat populer di kalangan Developer Java.</samp>
 
-- <samp>Apache Maven running menggunakan JVM (Java Virtual Machine) sebagai fondasi dasar, Apache Maven dibuild menggunakan java.</samp>
+- <samp>Apache Maven running menggunakan JVM (Java Virtual Machine) sebagai fondasi dasar,</samp> 
+ 
+  <samp>Apache Maven dibuild menggunakan java.</samp>
 
-- <samp>Apache Maven mendukung build automation untuk banyak teknologi, seperti :<samp>
+- <samp>Apache Maven mendukung build automation untuk banyak teknologi, seperti :</samp>
 
   - <samp>Java</samp>
   
