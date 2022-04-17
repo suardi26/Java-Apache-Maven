@@ -2,4 +2,18 @@
 
 ### Build Automatiion
 
-- Build Automation adalah
+- Build Automation adalah proses meng-otomatisasi tahapan pembuatan software dan hal-hal yang berhubungan denganya, seperti :
+  
+  kompilasi source code menjadi binary code, mem-package binary code menjadi distribution file misalnya dari file '.class'
+  
+  menjadi '.jar' (Java Archive), membuat dokumentasi, menjalankan automated test hingga manajemen dependency.
+  
+- Semua proses diatas tidak perlu dibuat manual lagi namun dapat di otomatisasi dengan Bulid Automation.
+  
+- Pada saat menggunakan IDE seperti Intellij IDEA maka dapat dibantu oleh IDE namun pada kenyataannya tidak mungkin membawa IDE
+  
+  pada server, jadi harus dilakukan compile dari source code menjadi binary file pada server namun tidak perlu secara manual
+  
+  dikarenakan dapat di otomatisasi dengan Build Automation.
+  
+- 
