@@ -32,7 +32,7 @@
   
   <samp>build automation dan test resultnya dapat dilihat juga.</samp> 
   
-  <img src="https://github.com/suardi26/Java-Collection/blob/main/Collection.jpg" alt="Collection Interface"/>
+  <img src="https://github.com/suardi26/Java-Apache-Maven/blob/main/Automated%20Test%20%26%20Management%20Dependency_page-0001.jpg" alt="Automated Test & Management Dependency"/>
   
 - <samp>Pada saat kita membuat aplikasi kita biasanya membutuhkan beberapa library/dependecies dan untuk mengaturnya secara </samp>
 
