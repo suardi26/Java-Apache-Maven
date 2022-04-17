@@ -1,6 +1,6 @@
 ## Java Apache Maven
 
-### Build Automatiion
+### Build Automation
 
 - <samp>Build Automation adalah proses meng-otomatisasi tahapan pembuatan software dan hal-hal yang berhubungan</samp>
   
