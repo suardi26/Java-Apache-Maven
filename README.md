@@ -32,15 +32,15 @@
   
   <samp>build automation dan test resultnya dapat dilihat juga.</samp> 
   
-  ---
+  <img src="https://github.com/suardi26/Java-Collection/blob/main/Collection.jpg" alt="Collection Interface"/>
   
--  <samp>Pada saat kita membuat aplikasi kita biasanya membutuhkan beberapa library/dependecies dan untuk mengaturnya secara </samp>
+- <samp>Pada saat kita membuat aplikasi kita biasanya membutuhkan beberapa library/dependecies dan untuk mengaturnya secara </samp>
 
-   <samp>otomatis baik dari download library-nya secara otomatis, dicombine bersama project yang dibuat dan dicompile serta </samp>
+  <samp>otomatis baik dari download library-nya secara otomatis, dicombine bersama project yang dibuat dan dicompile serta </samp>
   
-   <samp>di running secara otomatis, hal ini lebih mudah dibandingkan pada saat melakukannya secara manual seperti mendownload </samp>
+  <samp>di running secara otomatis, hal ini lebih mudah dibandingkan pada saat melakukannya secara manual seperti mendownload </samp>
   
-   <samp>library berupa file jar secara manual dan di compile bersama project kita secara manual.</samp>
+  <samp>library berupa file jar secara manual dan di compile bersama project kita secara manual.</samp>
    
  - <samp>Ada beberapa Build Automation Tool :</samp>
  
@@ -49,3 +49,25 @@
     - <samp>Apache Ivy.</amp>
     
     - <samp>Gradle.</samp>
+
+### Apache Maven
+
+- <samp>Apache Maven adalah salah satu build automation yang open source dan free.</samp>
+
+- <samp>Apache Maven menggunakan XML untuk mendefenisikan build scriptnya.</samp>
+
+- <samp>Apache Maven sangat populer di kalangan Developer Java.</samp>
+
+- <samp>Apache Maven running menggunakan JVM (Java Virtual Machine) sebagai fondasi dasar, Apache Maven dibuild menggunakan java.</samp>
+
+- <samp>Apache Maven mendukung build automation untuk banyak teknologi, seperti :<samp>
+
+  - <samp>Java</samp>
+  
+  - <samp>Kotlin</samp>
+  
+  - <samp>Groovy</samp>
+
+  - <samp>Scala</samp>
+  
+  - <samp>dll.</samp>
