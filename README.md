@@ -21,3 +21,7 @@
   <samp>'.ear' (Enterprise Archive), '.war' (Web Archive), dan packging ini dapat di otomatisasi dengan Build Automation</samp>
   
   <samp>dan tidak perlu manual.</samp>
+  
+- <samp>Jadi pada java dapat dilakukan Compile Doc dari Source Code menjadi Documentation dari source code tersebut, namun </samp>
+  
+  <samp>Compile Doc ini dapat diotomatisasi dengan Build Automation dan tidak perlu manual.</samp>
