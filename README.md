@@ -36,7 +36,7 @@
   
   <samp>akan dijalankan secara otomatis oleh build automation dan test resultnya dapat dilihat juga.</samp> 
   
-  <img src="https://github.com/suardi26/Java-Apache-Maven/blob/main/Automated%20Test%20%26%20Management%20Dependency_page-0001.jpg" alt="Automated Test & Management Dependency" width=50% height=50%/>
+  <img src="https://github.com/suardi26/Java-Apache-Maven/blob/main/Automated%20Test%20%26%20Management%20Dependency.jpg" alt="Automated Test & Management Dependency"/>
   
 - <samp>Pada saat kita membuat aplikasi kita biasanya membutuhkan beberapa library/dependecies dan untuk </samp>
 
